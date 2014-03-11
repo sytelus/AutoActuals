@@ -1,0 +1,10 @@
+The Source code of AutoActuals is not in sync with the release. And the worst thing - after 2 years I don't remeber WHAT exactly is not in sync!!!
+
+No part of the source code can be used in commercial applications without author's 
+written permission.
+
+
+(C) 1998-2001, Shital Shah.
+
+email: shital_s@usa.net
+home: http://www.ShitalShah.com

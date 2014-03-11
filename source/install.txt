@@ -1,0 +1,21 @@
+Do the following to install AutoActuals 0.9 BETA:
+
+1. Rename the blank.mdb file with your_name.mdb file.
+2. Go to Control Panel > 32 Bit - ODBC.
+3. Press Add. Select Microsoft Access driver. Press Finish.
+4. Enter AutoActuals in Data Source Name.
+5. Press Select button and locate the your_name.mdb file.
+6. Press OK and close ODBC Administrator.
+7. Make a shortcut to AutoActuals and put in to your Startup so
+   that it runs everytime Windows starts.
+8. Now run the AutoActuals. A message will appear and then in the next 
+   screen type AutoActuals in text box named "Database".
+9. Press OK.
+10. AutoActuals is now started and it's seating in your System Tray!
+
+
+
+(C) 1998-2001, Shital Shah.
+
+email: shital_s@usa.net
+home: http://www.ShitalShah.com

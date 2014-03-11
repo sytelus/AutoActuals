@@ -1,0 +1,7 @@
+frmMain = 110, 110, 475, 458, , 88, 88, 453, 436, 
+frmWakeUpDlg = 66, 66, 431, 414, , 44, 44, 409, 392, 
+Utils = 132, 132, 497, 480, 
+clsErrHandler = 0, 0, 0, 0, C
+modGlobal = 44, 44, 470, 392, 
+modProjectGlobals = 154, 154, 495, 502, 
+modSysTray = 154, 154, 509, 476, Z
